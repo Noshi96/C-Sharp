@@ -1,0 +1,5 @@
+C:\Users\Paweł\source\repos\CHashLab1\CHashLab1\bin\Debug\CHashLab1.exe
+C:\Users\Paweł\source\repos\CHashLab1\CHashLab1\bin\Debug\CHashLab1.pdb
+C:\Users\Paweł\source\repos\CHashLab1\CHashLab1\obj\Debug\CHashLab1.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CHashLab1\CHashLab1\obj\Debug\CHashLab1.exe
+C:\Users\Paweł\source\repos\CHashLab1\CHashLab1\obj\Debug\CHashLab1.pdb
