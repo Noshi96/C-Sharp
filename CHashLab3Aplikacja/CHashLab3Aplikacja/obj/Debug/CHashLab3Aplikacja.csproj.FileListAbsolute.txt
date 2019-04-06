@@ -1,0 +1,9 @@
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\bin\Debug\CHashLab3Aplikacja.exe
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\bin\Debug\CHashLab3Aplikacja.pdb
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\obj\Debug\CHashLab3Aplikacja.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\obj\Debug\CHashLab3Aplikacja.Form1.resources
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\obj\Debug\CHashLab3Aplikacja.Properties.Resources.resources
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\obj\Debug\CHashLab3Aplikacja.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\obj\Debug\CHashLab3Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\obj\Debug\CHashLab3Aplikacja.exe
+C:\Users\Paweł\source\repos\CHashLab3Aplikacja\CHashLab3Aplikacja\obj\Debug\CHashLab3Aplikacja.pdb
