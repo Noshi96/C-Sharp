@@ -11,3 +11,9 @@ CHashLab3Aplikacja:
 
 CHashLab4Aplikacja:
 - Paint.
+
+CHashLab5Aplikacja:
+- Paint with loading and saveing files. Also with opening and closing pages like in Chrome.
+
+CHashLab6Aplikacja:
+- Dynamic searching in Dictionary.
