@@ -1,0 +1,9 @@
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\bin\Debug\CHashLab4Aplikacja.exe
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\bin\Debug\CHashLab4Aplikacja.pdb
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\obj\Debug\CHashLab4Aplikacja.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\obj\Debug\CHashLab4Aplikacja.Properties.Resources.resources
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\obj\Debug\CHashLab4Aplikacja.csproj.GenerateResource.cache
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\obj\Debug\CHashLab4Aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\obj\Debug\CHashLab4Aplikacja.exe
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\obj\Debug\CHashLab4Aplikacja.pdb
+C:\Users\Paweł\source\repos\CHashLab4Aplikacja\CHashLab4Aplikacja\obj\Debug\CHashLab4Aplikacja.Form1.resources
